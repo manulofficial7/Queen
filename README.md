@@ -67,7 +67,7 @@ https://github.com/jonathanong/heroku-buildpack-ffmpeg-latest
 https://github.com/clhuang/heroku-buildpack-webp-binaries.git
 ```
 
-[![Deploy](https://heroku.com/deploy?template=https://github.com/manulofficial7/Queen/)
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/manulofficial7/Queen/)
 
 # Install Manually 👇
 ## `Requirements`
